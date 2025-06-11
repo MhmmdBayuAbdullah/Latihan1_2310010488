@@ -29,4 +29,16 @@ public class Rumus {
     public double getHasil() {
         return hasil;
     }
+    
+    public void setSisi(double sisi) {
+    this.sisi = sisi;
+    }
+
+    public void setPanjang(double panjang) {
+    this.panjang = panjang;
+    }
+
+    public void setLebar(double lebar) {
+    this.lebar = lebar;
+    }
 }
